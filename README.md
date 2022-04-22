@@ -7,6 +7,6 @@ Embryo holder: ![embryo holder with ruler](https://github.com/e-vanitallie/XLaev
 
 Slide holder: ![slide holder](https://github.com/e-vanitallie/XLaevis_LiveImaging_Files/blob/main/SlideHolder_Cropped.png)
 
-Slide holder, LabTek 8-chamber glass bottomed slide, embryo holder, X.laevis embryos: ![all together] (https://github.com/e-vanitallie/XLaevis_LiveImaging_Files/blob/main/SlideHolder_Slide_EmbryoHOlder_Ruler_Cropped.png)
+Slide holder, LabTek 8-chamber glass bottomed slide, embryo holder, X.laevis embryos: ![all together] (https://github.com/e-vanitallie/XLaevis_LiveImaging_Files/blob/main/SlideHolder_Slide_EmbryoHolder_Ruler_Cropped.png)
 
 On the microscope stage: ![all together, on the microscope stage](https://github.com/e-vanitallie/XLaevis_LiveImaging_Files/blob/main/OnStage_SlideHolder_Slide_EmbryoHolder_Ruler_Cropped.png)
