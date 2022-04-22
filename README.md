@@ -5,4 +5,4 @@ These are the files to laser cut and 3D print the embryo holder and slide holder
 
 Embryo holder: ![embryo holder with ruler](https://github.com/e-vanitallie/XLaevis_LiveImaging_Files/blob/main/EmbryoHolder_Ruler_Cropped.png)
 
-
+Slide holder: ![slide holder](https://github.com/e-vanitallie/XLaevis_LiveImaging_Files/blob/main/SlideHolder_Cropped.png)
